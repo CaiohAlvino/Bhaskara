@@ -1,2 +1,2 @@
 # Bhaskara
-formula de bhaskara
+Um simples programa para resolver bhaskara
